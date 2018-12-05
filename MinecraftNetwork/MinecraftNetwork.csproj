@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Debug.cs" />
     <Compile Include="MinecraftClient.cs" />
     <Compile Include="Packets\IPacket.cs" />
     <Compile Include="Packets\PEncryptionRequest.cs" />
