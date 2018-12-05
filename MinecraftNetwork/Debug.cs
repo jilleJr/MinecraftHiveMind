@@ -6,7 +6,7 @@ using System.Reflection;
 using MinecraftNetwork.Packets;
 using MinecraftNetwork.Protocol;
 
-namespace MinecraftHiveMind
+namespace MinecraftNetwork
 {
     public static class Debug
     {
